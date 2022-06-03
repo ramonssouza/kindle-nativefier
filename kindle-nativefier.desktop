@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Kindle
+Comment=Kindle desktop built with nativefier (electron)
+Exec=kindle-nativefier
+Icon=kindle-nativefier
+Encoding=UTF-8
+StartupWMClass=kindle-nativefier-d40211
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Network;Education;Application;
